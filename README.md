@@ -20,22 +20,6 @@ The code is organized into the following directories:
 * **visualization**: Contains code for generating visualizations of the data and model results.
 * **README.md**: This file provides an overview of the project.
 
-## Installation
-
-To run this project, follow these steps:
-
-1. Clone this repository:
-
-```
-git clone [invalid URL removed]
-```
-
-2. Install required dependencies:
-
-```
-pip install -r requirements.txt
-```
-
 ## Usage
 
 1. **Data Preprocessing**:
