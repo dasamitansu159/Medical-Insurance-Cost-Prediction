@@ -56,5 +56,3 @@ pip install -r requirements.txt
 ## Contributing
 
 This project is open to contributions. Feel free to fork the repository and submit pull requests with your improvements or additional features.
-
-```
